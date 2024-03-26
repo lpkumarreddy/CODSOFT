@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.icons-tech1 {
+    font-size: 40px;
+}
+
+.icons {
+    color: black;
+}
+
+
+.USER-EXPERIENCE {
+    font-family: Monoton;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.copy-rights {
+    background-image: radial-gradient(#dfdae6, #8f48e0);
+    height: 5vh;
+    border-radius: 46px;
+    font-family: Display;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+
+.image1 {
+    height: 26vh;
+    width: 24vw;
+    border-radius: 38px;
+    padding-bottom: 15px;
+    background-color: lightgray;
+}
+
+
+.image {
+    height: 26vh;
+    width: 40vw;
+    border-radius: 38px;
+
+}
+
+.about-section {
+    background-image: linear-gradient(to left, lightgray, darkgray);
+    height: 30vh;
+}
+
+
+
+.icons-tech {
+    font-size: 40px;
+}
+
+
+.Launch-Projects {
+    font-family: Display Playfair SC;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Launch-Projects-description {
+    font-family: Caveat;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#pro-section {
+    background-image: linear-gradient(to right, lightgray, darkgray);
+    height: 30vh;
+
+}
+
+.About-Us {
+    font-family: Display Playfair SC;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.h5heading {
+    color: black;
+}
+
+.h5description {
+    color: black;
+}
+
+
+.email {
+    font-size: 24px;
+}
+
+#item2 {
+    background-image: linear-gradient(to left, #f3f5dc, #ba9d1c);
+    color: black;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    font-weight: bold;
+}
+
+
+#item1 {
+    color: black;
+    font-weight: 600;
+}
+
+
+.icons-bg {
+    background-image: linear-gradient(to right, lightgray, darkgray);
+    height: 10vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.ph-number {
+    font-size: 24px;
+
+    color: black;
+}
+
+.c-img {
+    height: 30vh;
+    width: 70vw;
+}
+
+.contact-mail-section {
+    font-size: 22px;
+    font-family: "Roboto";
+    color: black;
+    font-weight: bold;
+}
+
+.landing-page {
+
+    font-size: 20px;
+    padding-left: 5px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+
+.icons-size {
+
+    background-image: linear-gradient(to left, #f3f5dc, #ba9d1c);
+    height: 60px;
+    width: 60px;
+    padding-bottom: 24px;
+    padding-top: 0px;
+    padding-left: 12px;
+    padding-right: 0px;
+    margin-right: 2px;
+    border-radius: 26px;
+    margin-left: -18px;
+    font-size: 40px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
