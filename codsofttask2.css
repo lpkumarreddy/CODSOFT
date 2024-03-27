@@ -4,6 +4,7 @@
 
 .icons-tech1 {
     font-size: 40px;
+    padding-top: 16px;
 }
 
 .icons {
@@ -15,7 +16,7 @@
     font-family: Monoton;
     font-size: 30px;
     font-weight: bold;
-    padding: 5px;
+   
 }
 
 .copy-rights {
@@ -34,7 +35,6 @@
     height: 26vh;
     width: 24vw;
     border-radius: 38px;
-    padding-bottom: 15px;
     background-color: lightgray;
 }
 
@@ -48,7 +48,7 @@
 
 .about-section {
     background-image: linear-gradient(to left, lightgray, darkgray);
-    height: 30vh;
+   
 }
 
 
@@ -73,7 +73,7 @@
 
 #pro-section {
     background-image: linear-gradient(to right, lightgray, darkgray);
-    height: 30vh;
+    
 
 }
 
@@ -102,6 +102,8 @@
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
     font-weight: bold;
+    margin-bottom: 2px;
+    padding-left: 13px;
 }
 
 
@@ -113,14 +115,11 @@
 
 .icons-bg {
     background-image: linear-gradient(to right, lightgray, darkgray);
-    height: 10vh;
-    width: 100vw;
     background-size: cover;
 }
 
 .ph-number {
     font-size: 24px;
-
     color: black;
 }
 
@@ -153,11 +152,11 @@
     padding-bottom: 24px;
     padding-top: 0px;
     padding-left: 12px;
-    padding-right: 0px;
+    padding-right: 10px;
     margin-right: 2px;
     border-radius: 26px;
-    margin-left: -18px;
+    margin-left: -14px;
     font-size: 40px;
-    margin-top: 3px;
+    margin-top: 5px;
     margin-bottom: 10px;
 }
