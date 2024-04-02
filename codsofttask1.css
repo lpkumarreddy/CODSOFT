@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.copyrights {
+    background-color: #001c32;
+    padding: 10px;
+    color: #5a7184;
+    background-size: cover;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+
+
+.icons {
+    color: #9aa5b1;
+    font-size: 18px;
+
+}
+
+.Footer-Section-text {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+
+}
+
+
+.FooterSection {
+    background-color: #0d2436;
+    background-size: cover;
+
+}
+
+
+
+.FoodMunch {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.Resume-section-to-download {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+
+.explore {
+    color: black;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-family: Caveat;
+
+
+}
+
+
+.explore-my-resume {
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-family: Caveat;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-radius: 8px;
+
+}
+
+
+
+.Projects-img {
+    height: 30vh;
+    border-radius: 16px;
+
+}
+
+.Projects-card-section1 {
+    background-color: beige;
+    border-radius: 16px;
+
+}
+
+
+.skill-card {
+    background-color: white;
+}
+
+
+.Skills-Section-container {
+    background-color: beige;
+    width: 100vw;
+}
+
+
+.skill-card {
+    border-radius: 16px;
+    width: 26vh;
+}
+
+.HTML-img {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: Playfair Display;
+}
+
+.skill-image {
+    height: 120px;
+    width: 160px;
+    padding-left: 40px;
+    margin: 0px;
+    padding-bottom: 14px;
+    padding-top: 14px;
+}
+
+
+.skills-heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: Playfair Display;
+}
+
+
+
+
+
+.degree-course {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Playfair Display;
+    color: black;
+}
+
+.name {
+    color: darkorange;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Caveat;
+}
+
+
+
+
+
+
+.btn2 {
+    color: black;
+    border-radius: 8px;
+    height: 40px;
+    width: 200px;
+    border-color: gold;
+    border-width: 3px;
+    background-color: gold;
+    margin-right: 10px;
+    border-style: solid;
+    font-family: Caveat;
+    font-weight: 700;
+}
+
+
+
+
+.btn1 {
+    color: black;
+    border-radius: 8px;
+    height: 40px;
+    width: 150px;
+    border-color: gold;
+    border-width: 3px;
+    background-color: gold;
+    margin-right: 10px;
+    border-style: solid;
+    font-family: Caveat;
+    font-weight: 700;
+}
+
+
+
+
+.contact-me-section-image {
+    height: 40vh;
+    width: 24vw;
+    margin: 0px;
+    border-radius: 210px;
+
+}
+
+.icon {
+    font-size: 26px;
+    color: #cced00;
+
+}
+
+.follow {
+    margin-left: 0px;
+
+}
+
+.follow-us-secton {
+    background-color: #323f4b;
+    height: 48px;
+    width: 48px;
+    padding-bottom: 22px;
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-right: 16px;
+    margin-right: 10px;
+    border-radius: 26px;
+    margin-left: 0px;
+
+}
+
+.icon2 {
+    height: 40vh;
+    width: 20vw;
+}
+
+#item-1 {
+    color: black;
+    font-weight: 600;
+
+
+}
+
+h1 {
+    font-size: 30px;
+
+    font-weight: bold;
+    font-family: Playfair Display;
+
+}
+
+p {
+    color: gray;
+    font-size: 18px;
+    font-weight: 500;
+
+}

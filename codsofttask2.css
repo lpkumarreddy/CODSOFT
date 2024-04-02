@@ -1,0 +1,377 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+
+
+.span-item {
+    color: #4f4d59;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+
+
+.btn {
+    background-color: #f0c711;
+    margin: 10px;
+    width: 10vw;
+    height: 6vh;
+    padding: 3px;
+    color: #0c1b7d;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    border-bottom-style: outset;
+
+}
+
+.ogic-farming-description {
+    padding-top: 10px;
+    color: darkgray;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+
+.ogic-farming-box {
+    background-color: white;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    height: 50vh;
+    width: 30vw;
+}
+
+.ogic-farming-icon {
+    font-size: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#nav-item {
+    color: #1017ad;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+
+
+
+.navbar-nav {
+    margin-left: 225px;
+}
+
+.copyrights {
+    background-color: #001c32;
+    padding: 10px;
+    color: #5a7184;
+    background-size: cover;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+
+.Footer-Section-text {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.heading-address {
+    color: #197175;
+    font-family: "Roboto";
+    font-weight: normal;
+    font-size: 20px;
+}
+
+
+
+.icon {
+    padding: 10px;
+    font-size: 30px;
+    color: black;
+
+    margin: 5px;
+}
+
+
+
+
+
+
+.service-section {
+    background-color: white;
+    height: 24vw;
+
+    border-radius: 16px;
+}
+
+
+.service-description {
+    padding-left: 14px;
+    color: #2e77b8;
+    font-family: Caveat;
+    font-size: 34px;
+
+}
+
+.icons {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+
+.about-heading {
+    padding-top: 14px;
+    padding-left: 14px;
+    color: #deaa10;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.about-description {
+
+    padding-left: 14px;
+    color: #3d1670;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.image {
+    height: 26vh;
+    width: 40vw;
+    border-radius: 16px;
+}
+
+.service-image {
+    height: 16vh;
+    width: 18vw;
+    border-bottom-left-radius: 68px;
+    border-top-right-radius: 68px;
+}
+
+.main-heading {
+    color: #ad8109;
+    padding-top: 10px;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.heading {
+    padding-top: 4px;
+    text-align: start;
+    color: darkblue;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Vegetables-box {
+    background-color: white;
+    width: 44vw;
+    height: 40vh;
+    border-radius: 16px;
+
+}
+
+.Fruits-box {
+    background-color: white;
+    width: 44vw;
+    height: 40vh;
+    border-radius: 16px;
+}
+
+
+.explore {
+    color: gold;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 2px;
+}
+
+.carousel-card {
+    height: 30vh;
+    width: 30vw;
+
+}
+
+
+
+nav ul il {
+    padding-top: 10px;
+    padding-right: 14px;
+    text-align: center;
+    color: green;
+    font-family: "Roboto";
+    font-size: 18px;
+    ;
+}
+
+
+
+.icons-tech1 {
+    font-size: 40px;
+    padding-top: 16px;
+}
+
+.icons {
+    color: black;
+}
+
+
+.USER-EXPERIENCE {
+    font-family: Caveat;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.copy-rights {
+    background-image: radial-gradient(#dfdae6, #8f48e0);
+    height: 5vh;
+    border-radius: 46px;
+    font-family: Display;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+
+.image1 {
+    height: 26vh;
+    width: 24vw;
+    border-radius: 38px;
+
+    background-color: lightgray;
+}
+
+
+
+.about-section {
+    background-image: linear-gradient(to left, lightgray, darkgray);
+
+}
+
+
+
+.icons-tech {
+    font-size: 40px;
+}
+
+
+.Launch-Projects {
+    font-family: Display Playfair SC;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Launch-Projects-description {
+    font-family: Caveat;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#pro-section {
+    background-image: linear-gradient(to right, lightgray, darkgray);
+
+
+}
+
+.About-Us {
+    font-family: Display Playfair SC;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+
+.email {
+    font-size: 24px;
+}
+
+#item2 {
+    background-image: linear-gradient(to left, #f3f5dc, #ba9d1c);
+    color: black;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    padding-left: 13px;
+}
+
+
+#item1 {
+    color: black;
+    font-weight: 600;
+}
+
+
+.icons-bg {
+    background-image: linear-gradient(to right, lightgray, darkgray);
+
+    background-size: cover;
+}
+
+.ph-number {
+    font-size: 24px;
+
+    color: black;
+}
+
+.c-img {
+    height: 30vh;
+    width: 70vw;
+    border-radius: 16px;
+}
+
+.contact-mail-section {
+    font-size: 22px;
+    font-family: "Roboto";
+    color: black;
+    font-weight: bold;
+}
+
+.landing-page {
+
+    font-size: 20px;
+    padding-left: 5px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+
+.icons-size {
+
+    background-image: linear-gradient(to left, #f3f5dc, #ba9d1c);
+    height: 60px;
+    width: 60px;
+    padding-bottom: 24px;
+    padding-top: 0px;
+    padding-left: 12px;
+    padding-right: 10px;
+    margin-right: 2px;
+    border-radius: 26px;
+    margin-left: -14px;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
